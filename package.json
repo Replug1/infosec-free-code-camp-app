@@ -8,7 +8,9 @@
 	},
 	"dependencies": {
 		"express": "^4.14.0",
-		"helmet": "3.21.3"
+		"global": "^4.4.0",
+		"helmet": "3.21.3",
+		"yarn": "^1.22.22"
 	},
 	"keywords": [
 		"node",
